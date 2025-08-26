@@ -1,5 +1,5 @@
 // basic environment checks
-package main
+package core
 
 import (
 	"os"
